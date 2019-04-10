@@ -1,7 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56d4175-a4ec-4c14-8296-7e40a1fb4e04" name="Default Changelist" comment="" />
+    <list default="true" id="c56d4175-a4ec-4c14-8296-7e40a1fb4e04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Metroidvania Versus/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Metroidvania Versus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Metroidvania Versus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Main Character.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Main Character.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Tiles/Cave Tiles.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Tiles/Cave Tiles.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/environment/layers/tilesets.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/environment/layers/tilesets.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/DEPENDENCIES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/DEPENDENCIES.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Documentation~/collab-proxy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/AssemblyInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Bootstrap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Bootstrap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabAnalytics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabAnalytics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabHistoryWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabHistoryWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/CollabToolbarWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters/CollabHistoryPresenter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Presenters/CollabHistoryPresenter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/BuildStatusButton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/BuildStatusButton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDown.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDown.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDownItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryDropDownItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItemFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryItemFactory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryRevisionLine.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/CollabHistoryRevisionLine.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/HistoryProgressSpinner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/HistoryProgressSpinner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/ICollabHistoryItemFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/ICollabHistoryItemFactory.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/PagedListView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/PagedListView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/StatusView.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Collab/Views/StatusView.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryCommon.uss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryCommon.uss.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryDark.uss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryDark.uss.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryLight.uss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Resources/Styles/CollabHistoryLight.uss.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Unity.CollabProxy.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Editor/Unity.CollabProxy.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/LICENSE.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/HistoryTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/HistoryTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.2.15/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Documentation/IAP.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.mdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/License.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/License.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.mdb.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/UnityEngine.Purchasing.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.purchasing@2.0.3/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8605c7-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8605c7-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/TilemapEditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/TilemapEditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/13/1369382d2c5e64dc5b2ec0b6b0a94531" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/13/1369382d2c5e64dc5b2ec0b6b0a94531" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/260f206514a0d4d4ab3ebccbfbf01e09" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/260f206514a0d4d4ab3ebccbfbf01e09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/260f206514a0d4d4ab3ebccbfbf01e09.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/260f206514a0d4d4ab3ebccbfbf01e09.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/30/30aa3194afbe44a72aa7ec76cb2bab8a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/30/30aa3194afbe44a72aa7ec76cb2bab8a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3a/3a2d94c8977984b67984caeff9fa666e" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3a/3a2d94c8977984b67984caeff9fa666e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/44/44f39a74ca5ee4bf5936b17e901f251c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/45/4506ac79f5b274cb1b249ed7f4abfb9a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/45/4506ac79f5b274cb1b249ed7f4abfb9a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/57/572a55417ef7d4aa6b8e915d4fa44658" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/57/572a55417ef7d4aa6b8e915d4fa44658" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/57/57b0c806ba25b48aa8a6ecb3345a4a9b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/57/57b0c806ba25b48aa8a6ecb3345a4a9b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/6b/6b1ae1e78552c459d9ce27048ff51c7f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6b/6b1ae1e78552c459d9ce27048ff51c7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/78/782c49e6e68074dc7ba12c95537825ce" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/78/782c49e6e68074dc7ba12c95537825ce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/86/86c18994495874297b469aaa57ef9b44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/86/86c18994495874297b469aaa57ef9b44.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/90/90791303b72ec4ae198f99d637dfdf6c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9de9e8523c82543c5b3e40a4b51aa2c9.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a6/a6ab6fd2b91214e8a9c8ec2224a528de" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a6/a6ab6fd2b91214e8a9c8ec2224a528de" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b5/b5f4343795a0e4626ac1fe4a9e6fce59" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/bb/bb15697a279504a90b825c44dc355047" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/bb/bb15697a279504a90b825c44dc355047" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/be/be4b06d1ee51e4ac2a01a0e499d4c214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/be/be4b06d1ee51e4ac2a01a0e499d4c214.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c18cb9388313e4287ad5895ee735c47d" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c1/c18cb9388313e4287ad5895ee735c47d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d3/d31e5d760880a4e52a3a75322481d0d2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d3/d31e5d760880a4e52a3a75322481d0d2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d4/d437fe60bb34f45728664a5d930c1635" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d4/d437fe60bb34f45728664a5d930c1635" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d9/d929147d9f78c487397abb40f2c257b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/fd/fd0a39b4d296d4d509b4f1dbd08d0630" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fd/fd0a39b4d296d4d509b4f1dbd08d0630" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +154,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Shaders/Sprites-Default.shader">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+            <state relative-caret-position="125">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1520267534000" expanded="false" signature="6:32" ph="..." />
+                <marker date="1520267534000" expanded="true" signature="67:1720" ph="{...}" />
+                <marker date="1520267534000" expanded="true" signature="117:1718" ph="{...}" />
+                <marker date="1520267534000" expanded="true" signature="566:741" ph="{...}" />
+                <marker date="1520267534000" expanded="true" signature="816:1712" ph="{...}" />
+                <marker date="1520267534000" expanded="true" signature="1109:1224" ph="{...}" />
+                <marker date="1520267534000" expanded="true" signature="1241:1390" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Shaders/Bumped Diffuse with Shadows.shader">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Bumped Diffuse with Shadows.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Sprites-Default.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Shaders/MotherShaderV1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -43,17 +191,18 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -104,11 +253,12 @@
       <updated>1553869537734</updated>
       <workItem from="1553869550097" duration="1152000" />
       <workItem from="1553986862227" duration="685000" />
+      <workItem from="1554845882335" duration="418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1837000" />
+    <option name="totallyTimeSpent" value="2255000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -122,7 +272,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -167,28 +317,22 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Temp/Compiled-Cool-MotherShaderV1.shader" />
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/MotherShaderV1.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/MotherShaderV1.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Bumped Diffuse with Shadows.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Sprites-Default.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="125">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <marker date="1553870229208" expanded="true" signature="0:133" ph="/* Mother Game Shader V1 ... */" />
-            <marker date="1553870229208" expanded="true" signature="164:1296" ph="{...}" />
-            <marker date="1553870229208" expanded="true" signature="181:541" ph="{...}" />
-            <marker date="1553870229208" expanded="true" signature="553:1274" ph="{...}" />
-            <marker date="1553870229208" expanded="true" signature="603:1271" ph="{...}" />
-            <marker date="1553870229208" expanded="true" signature="626:1256" ph="{...}" />
+            <marker date="1520267534000" expanded="false" signature="6:32" ph="..." />
+            <marker date="1520267534000" expanded="true" signature="67:1720" ph="{...}" />
+            <marker date="1520267534000" expanded="true" signature="117:1718" ph="{...}" />
+            <marker date="1520267534000" expanded="true" signature="566:741" ph="{...}" />
+            <marker date="1520267534000" expanded="true" signature="816:1712" ph="{...}" />
+            <marker date="1520267534000" expanded="true" signature="1109:1224" ph="{...}" />
+            <marker date="1520267534000" expanded="true" signature="1241:1390" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Bumped Diffuse with Shadows.shader">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Sprites-Default.shader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
         </state>
       </provider>
     </entry>
